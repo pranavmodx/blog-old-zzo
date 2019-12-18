@@ -1,5 +1,5 @@
-logoText = "Zzo" # Logo text that appears in the site navigation bar.
-description = "The Zzo theme for Hugo example site." # for SEO
+logoText = "Pranav Shridhar" # Logo text that appears in the site navigation bar.
+description = "Personal Blog of Pranav Shridhar" # for SEO
 custom_css = [] # custom_css = ["scss/custom.scss"] and then make file at root/assets/scss/custom.scss
 custom_js = [] # custom_js = ["js/custom.js"] and then make file at root/assets/js/custom.js
 
@@ -21,13 +21,13 @@ archivePaginate = 13 # items per page
 paginateWindow = 1 # setting it to 1 gives 7 buttons, 2 gives 9, etc. If set 1: [1 ... 4 5 6 ... 356] [1 2 3 4 5 ... 356] etc
 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
-useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
-link = "https://github.com/zzossig/hugo-theme-zzo"
+myname = "Pranav Shridhar"
+email = "pranavmodx@gmail.com"
+whoami = "CSE Student, Aspiring Fullstack Developer"
+useGravatar = true
+location = "Kochi, Kerala"
+organization = "Govt. Model Engineering College"
+link = "https://github.com/pranavmodx"
 
 # sidebar
 enableBio = true # home page sidebar
@@ -41,9 +41,9 @@ itemsPerCategory = 5 # maximum number of posts shown in the sidebar.
 
 # footer
 showPoweredBy = true # show footer text: Powered by Hugo and Zzo theme
-showFeedLinks = true # RSS Feed 
+showFeedLinks = false # RSS Feed 
 showSocialLinks = true # email, facebook, twitter ...
-enableLangChange = true # show button at bottom left of footer.
+enableLangChange = false # show button at bottom left of footer.
 themeOptions = ["dark", "light", "hacker", "solarized", "custom"] # select options for site color theme
 
 # service
@@ -101,17 +101,17 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions] # if set, social icons will show up.
-  email = "mailto:your@email.com"
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  email = "mailto:pranavmodx@gmail.com"
+  facebook = "http://facebook.com/pranavmodx"
+  twitter = "http://twitter.com/pranavmodx"
+  github = "https://github.com/pranavmodx"
   stack-overflow = ""
-  instagram = ""
+  instagram = "https://instagram.com/pranavmodx"
   google-plus = ""
   youtube = ""
-  medium = ""
+  medium = "https://medium.com/@pranavmodx"
   tumblr = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/pranavmodx/"
   pinterest = ""
   stack-exchange = ""
   telegram = ""
