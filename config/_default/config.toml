@@ -1,0 +1,46 @@
+baseURL = "http://example.org/" # The URL of your site.
+title = "Pranav Shridhar's Blog" # Title of your site
+theme = "zzo" # Name of Zzo theme folder in `themes/`.
+
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
+defaultContentLanguageInSubdir = true # baseURL/en/, baseURL/kr/ ...
+hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
+
+summaryLength = 70 # The length of a post description on a list page.
+
+copyright = "&copy;{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+timeout = 10000
+enableEmoji = true
+paginate = 10 # Number of items per page in paginated lists.
+rssLimit = 100
+
+googleAnalytics = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+      xHTML = true
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "WEBMANIFEST"]
+
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
+
+[outputFormats.webmanifest]
+  name = "webmanifest"
+  baseName = "webmanifest"
+  mediaType = "application/manifest+json"
+  rel = "manifest"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
