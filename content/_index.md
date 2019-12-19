@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - Pranav Shridhar
+      - Welcome to my blog!
     subtitle:
-      - Hey there!
+      - Browse around to find content you resonate with.
     titleFontSize: 44
     subtitleFontSize: 16
     spaceBetweenTitleSubtitle: 20

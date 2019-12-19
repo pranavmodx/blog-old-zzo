@@ -1,6 +1,6 @@
 +++
 title = "Notes"
-author = "Hugo Authors"
+author = "Pranav Shridhar"
 tags = ["index"]
-description = "Note page"
+description = "My Notes"
 +++
