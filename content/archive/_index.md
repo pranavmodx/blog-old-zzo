@@ -1,6 +1,6 @@
 ---
 title: "Archive"
-date: 
+date: "2019-12-18"
 type: "archive"
 description: Archive Page
 ---
