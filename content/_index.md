@@ -6,9 +6,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - Pranav Shridhar
     subtitle:
-      - The world’s fastest framework for building websites
+      - Hey there!
     titleFontSize: 44
     subtitleFontSize: 16
     spaceBetweenTitleSubtitle: 20

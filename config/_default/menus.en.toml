@@ -5,9 +5,9 @@
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "archive"
-  url = "archive"
+  identifier = "posts"
+  name = "posts"
+  url = "posts"
   weight = 2
 
 [[main]]
@@ -15,11 +15,6 @@
   name = "gallery"
   url = "gallery"
   weight = 3
-    
-[[main]]
-  parent = "gallery"
-  name = "cartoon"
-  url = "gallery/cartoon"
 
 [[main]]
   parent = "gallery"
@@ -27,9 +22,9 @@
   url = "gallery/photo"
 
 [[main]]
-  identifier = "posts"
-  name = "posts"
-  url = "posts"
+  identifier = "archive"
+  name = "archive"
+  url = "archive"
   weight = 4
     
 [[main]]
