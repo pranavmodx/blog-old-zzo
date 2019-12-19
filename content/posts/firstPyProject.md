@@ -2,7 +2,7 @@
 author = "Pranav Shridhar"
 title = "First Python Project"
 date = "2018-08-29"
-description = "Script for organizing text file"
+description = ""
 tags = [
     "python",
     "project",

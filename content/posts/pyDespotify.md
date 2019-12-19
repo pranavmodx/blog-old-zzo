@@ -2,7 +2,7 @@
 author = "Pranav Shridhar"
 title = "Python Script : Despotify"
 date = "2019-05-11"
-description = "Mutes annoying Spotify advertisements"
+description = ""
 tags = [
     "python",
     "project",
