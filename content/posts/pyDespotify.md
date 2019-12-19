@@ -2,14 +2,15 @@
 author = "Pranav Shridhar"
 title = "Python Script : Despotify"
 date = "2019-05-11"
-description = ""
+description = "Muting annoying Spotify advertisements"
 tags = [
     "python",
-    "project",
+    "script",
+]
+categories = [
+    "tech"
 ]
 +++
-
-# Despotify — muting annoying Spotify ads
 
 Hey yo! If you are one of those people who recently got to know about Spotify after their much hyped release in India, then you’re not alone. I immediately switched from Youtube (yeah that :) ) to Spotify after I heard that their song recommendations were very good.
 

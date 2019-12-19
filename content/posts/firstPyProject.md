@@ -1,15 +1,16 @@
 +++
 author = "Pranav Shridhar"
-title = "First Python Project"
+title = "First Python Script"
 date = "2018-08-29"
-description = ""
+description = "Converting a disorganized text file into a neat CSV file"
 tags = [
     "python",
-    "project",
+    "script",
+]
+categories = [
+    "tech"
 ]
 +++
-
-# How I converted a disorganized text file into a neat CSV file
 
 So I decided to learn Python. Turns out this computer programming language isn’t so hard (well, until I got this project! :P ).
 

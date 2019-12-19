@@ -1,14 +1,16 @@
 +++
 author = "Pranav Shridhar"
-title = "InOut 6.0 Hackathon Experience"
+title = "Experience at InOut 6.0 Hackathon"
 date = "2019-10-24"
 description = ""
 tags = [
     "hackathon",
+    "experience",
+]
+categories = [
+    "tech"
 ]
 +++
-
-# My Experience at InOut 6.0 Hackathon
 
 It all began when I saw the tweets of people, especially some of my college seniors (who I really look up to) registering for InOut Hackathon backed by a strong and well balanced team.
 > [InOut](https://hackinout.co) is the India’s biggest community hackathon.
