@@ -15,9 +15,3 @@
   name = "archive"
   url = "archive"
   weight = 3
-    
-[[main]]
-  identifier = "notes"
-  name = "notes"
-  url = "notes"
-  weight = 4
