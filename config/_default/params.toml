@@ -23,7 +23,7 @@ paginateWindow = 1 # setting it to 1 gives 7 buttons, 2 gives 9, etc. If set 1: 
 # whoami: usage - home page sidebar, single page bottom of post. all values can be empty
 myname = "Pranav Shridhar"
 email = "pranavmodx@gmail.com"
-whoami = "CSE Student, Aspiring Fullstack Developer"
+whoami = "CS Student, Coder, Chess Player, Blogger, Tech Speaker"
 useGravatar = false
 location = "Kochi, Kerala"
 organization = "Govt. Model Engineering College"
