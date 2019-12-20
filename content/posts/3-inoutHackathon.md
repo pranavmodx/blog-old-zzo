@@ -57,7 +57,7 @@ Time almost ran out and we rushed to create a demo video, take screenshots and w
 
 Unfortunately, we did not wait for the pitching round and judging as our train back home was at 8:00 pm and we couldn’t afford to miss it.
 
-Overall, it was a great experience. I learnt a lot throughout the day and more importantly I got to know my mistakes and the places where I needed to improve such as learning the more advanced GitHub concepts, working more on both frontend and backend skills and the communication between the two. I also learnt some team dynamics and essence of team spirit.
+Overall, it was a great experience. I learnt a lot throughout the day and more importantly I got to know my mistakes and the places where I needed to improve such as learning the more advanced Git concepts, working more on both frontend and backend skills and the communication between the two. I also learnt some team dynamics and essence of team spirit.
 
 I met and talked to a lot of people around there and gathered their insights and views on different technologies. I felt a lot more comfortable when I found that many people like me were on the pursuit of exploring everything and were okay with the little progress they made. In the end, you really want to do something which makes you happy. I made few friends and more importantly strengthened my relationships with the current ones.
 

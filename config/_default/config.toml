@@ -1,4 +1,4 @@
-baseURL = "https://www.blog.pranav.dev/" # The URL of your site.
+baseURL = "https://blog.pranav.dev/" # The URL of your site.
 title = "Pranav Shridhar's Blog" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
@@ -11,7 +11,7 @@ summaryLength = 25 # The length of a post description on a list page.
 copyright = "&copy;{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
 timeout = 10000
 enableEmoji = true
-paginate = 10 # Number of items per page in paginated lists.
+paginate = 5 # Number of items per page in paginated lists.
 rssLimit = 100
 
 googleAnalytics = ""
