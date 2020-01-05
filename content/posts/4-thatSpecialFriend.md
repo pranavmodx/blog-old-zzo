@@ -30,10 +30,10 @@ Is it because she is upset
 That he took her precious time and hence beset?
 
 Often times he lowers himself
-Trying to fix the broken friendship
+Trying to fix the broken friendship,
 For who else is there at times of his hardship?
 
-But again, as the saying goes, "If thou art not for thyself
+But again, as the saying goes, "If thou art not for thyself,
 Who will be for thee?"
 Sometimes it is best to be alone and free.
 
