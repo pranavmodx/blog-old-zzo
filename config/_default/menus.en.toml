@@ -15,3 +15,9 @@
   name = "archive"
   url = "archive"
   weight = 3
+
+[[main]]
+  identifier = "portfolio"
+  name = "portfolio"
+  url = "https://pranav.dev"
+  weight = 4
