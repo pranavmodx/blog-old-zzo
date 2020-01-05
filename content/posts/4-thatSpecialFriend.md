@@ -13,17 +13,17 @@ categories = [
 ]
 +++
   
-Life is beautiful 
+Life is bright and beautiful 
 For when he has that special friend
-His brimming emotions never end
+His brimming emotions never end.
 But when she is rash and undutiful
-Life chokes him with sorrow
+Life chokes him with pain and sorrow,
 And he can but only hope it will be fine tomorrow.
 
 He thinks it over and over
-For he can't fathom her changeover
+For he cannot fathom her changeover.
 Time and again he reminisces the good times spent
-And wishes to undo the wrongs and prevent
+And wishes to undo the wrongs and prevent.
 
 He starts questioning himself - 
 Is it because she is upset
@@ -33,9 +33,9 @@ Often times he lowers himself
 Trying to fix the broken friendship
 For who else is there at times of his hardship?
 
-But again, as the saying goes, if thou art not for thyself
-Who will be for thee?
-Sometimes it is best to be alone and free
+But again, as the saying goes, "If thou art not for thyself
+Who will be for thee?"
+Sometimes it is best to be alone and free.
 
-They may or may not be close anymore 
-But he will be there when she looks for
+They may or may not be close anymore, 
+But he will be there when she looks for.
