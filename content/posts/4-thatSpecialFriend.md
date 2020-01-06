@@ -26,7 +26,7 @@ Time and again he reminisces the good times spent,
 And wishes to undo the wrongs and prevent.
 
 He starts questioning himself - 
-Is it because she is upset
+Is it because she is annoyed and upset
 That he took her precious time and hence beset?
 
 Often times he lowers himself
