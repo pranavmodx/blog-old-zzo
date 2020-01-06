@@ -13,14 +13,14 @@ categories = [
 ]
 +++
   
-Life is bright and beautiful 
+Life is bright and beautiful, 
 For when he has that special friend
 His brimming emotions never end.
 But when she is rash and undutiful
 It chokes him with pain and sorrow,
 And he can but only hope it will be better tomorrow.
 
-He thinks it over and over
+He thinks it over and over,
 For he cannot fathom her changeover.
 Time and again he reminisces the good times spent,
 And wishes to undo the wrongs and prevent.
