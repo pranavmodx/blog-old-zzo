@@ -37,5 +37,5 @@ But again, as the saying goes, "If thou art not for thyself,
 Who will be for thee?"
 Sometimes it is best to be alone and free.
 
-They may or may not be close anymore, 
-But he will be there when she looks for.
+They might not be close anymore, 
+But he would be there when she looks for.
